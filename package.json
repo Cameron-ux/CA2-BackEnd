@@ -1,0 +1,24 @@
+{
+  "name": "ca2-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cameron-ux/CA2-BackEnd.git"
+  },
+  "author": "Cameron Lormont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cameron-ux/CA2-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Cameron-ux/CA2-BackEnd#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.2"
+  }
+}
